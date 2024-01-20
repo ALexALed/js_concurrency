@@ -1,0 +1,16 @@
+{
+  "name": "happycoin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "happycoin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "piscina": "^4.2.1"
+  }
+}
